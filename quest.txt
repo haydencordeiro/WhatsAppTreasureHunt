@@ -1,0 +1,1 @@
+["which is even no 2,3,5", "which is odd no 3,2,6", "what is 2+2", "what is 2*3"]
